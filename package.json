@@ -1,0 +1,29 @@
+{
+  "name": "angular-equalizer",
+  "version": "1.0.0",
+  "description": "Way to create equal height content on your page",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephma93/angular-equalizer.git"
+  },
+  "keywords": [
+    "angularjs",
+    "equalizer",
+    "user-interface",
+    "plugin",
+    "directive"
+  ],
+  "author": "Joseph Montero <@josephma93>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josephma93/angular-equalizer/issues"
+  },
+  "homepage": "https://github.com/josephma93/angular-equalizer#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-connect": "^0.10.1",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "angular-equalizer",
+  "version": "1.0.0",
+  "description": "Way to create equal height content on your page",
+  "keywords": [
+    "angularjs",
+    "equalizer",
+    "user-interface",
+    "plugin",
+    "directive"
+  ],
+  "authors": [
+    "Joseph Montero @josephma93"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/josephma93/angular-equalizer",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
